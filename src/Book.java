@@ -15,7 +15,7 @@ public class Book {
         this.pages = pages;
         this.dateRead = dateRead;
     }
-    
+
     public String getTitle() { return title; }
     public String getAuthor() { return author; }
     public String getGenre() { return genre; }
